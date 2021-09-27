@@ -1,3 +1,3 @@
 # APIRequest
 
-This is an API Test example.
+This is an HTTP API request Test example.
